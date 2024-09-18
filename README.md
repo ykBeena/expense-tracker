@@ -9,7 +9,7 @@ Expense Tracker is a simple, user-friendly application that allows users to trac
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/ykBeena/expense-tracker.git
 ```
 
 Navigate to the project directory and install dependencies:
@@ -33,9 +33,3 @@ Open your web browser and visit `http://localhost:3000`.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-```
-
-Please replace `https://github.com/yourusername/expense-tracker.git` with the actual URL of your repository.
